@@ -10,5 +10,5 @@ end
 
 def assign_rooms(array)
    array.each_with_index do |name, idx|
-    "Hello, my name is #{name}."
+    "Hello, #{name}! "
 end
